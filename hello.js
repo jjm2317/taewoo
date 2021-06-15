@@ -7,3 +7,5 @@ const c = 3;
 console.log('qkd');
 
 console.log('otn');
+
+console.log('jiman');
